@@ -35,7 +35,7 @@ Embark on an insightful journey through the evolutionary realm with `EvolveCreat
 To commence your evolutionary expedition, clone the repository to your local machine. Navigate to your desired location via the terminal and run:
 
 ```bash
-git clone https://github.com/YourUsername/EvolveCreatures.git
+git clone https://github.com/Roberadesissai/EvolveCreatures.git
 ```
 
 ### Explore the Code
